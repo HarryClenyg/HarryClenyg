@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harry.
 
-[Check out my CV here]("https://github.com/HarryClenyg/CV") | [Check out my LinkedIn here]("https://www.linkedin.com/in/harry-dawson-406910170") 
+[Check out my CV here](https://github.com/HarryClenyg/CV) | [Check out my LinkedIn here](https://www.linkedin.com/in/harry-dawson-406910170) 
 
 **HarryClenyg/HarryClenyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
